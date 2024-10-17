@@ -2,7 +2,7 @@
 
 #### Completează automat datele personale pentru forumul de înscriere.
 
-Făcut dupa modelul de [aici](https://fotovoltaice.info/demo/).  
+Făcut după modelul de [aici](https://fotovoltaice.info/demo/).  
 
 Realizat cu [AutoHotkey](https://www.autohotkey.com/).  
 
